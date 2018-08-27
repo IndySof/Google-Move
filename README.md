@@ -1,6 +1,6 @@
 # Google-Move
 Google Move™ is a project, who will be allowed to any car to get a Google Assitant inside it.
-It will use the Bluetooth (or aux (in old car)) to use speaker of your car to communicate
+It will use the Bluetooth (or aux (in old car)) to use speaker of your car to communicate.
 The design looks like this :
 ![alt text](https://raw.githubusercontent.com/IndySof/Google-Move/master/Design/Ads/Ads1.png)
 # About us
